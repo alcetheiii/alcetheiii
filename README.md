@@ -1,1 +1,2 @@
--Hello, im alce, i am a college student and 
+-Hello, im alce, i am a college student and game developer
+-my favorite color is orange
